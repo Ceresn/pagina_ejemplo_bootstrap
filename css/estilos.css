@@ -53,3 +53,11 @@
 .negro{
 	background-color: #000000;
 }
+
+footer{
+	background-color: #2C3E50;
+	height: 150px;
+	color: #fff;
+	padding-top: 15px;
+	padding-left: 20px;
+}
